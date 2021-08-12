@@ -1,0 +1,26 @@
+{
+  "name": "simple-bet",
+  "version": "1.0.0",
+  "description": "Manages betting for a match between two teams or players",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toreti/simple-bet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toreti/simple-bet/issues"
+  },
+  "homepage": "https://github.com/toreti/simple-bet#readme",
+  "dependencies": {
+    "truffle": "^5.4.5"
+  }
+}
